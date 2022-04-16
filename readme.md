@@ -1,10 +1,4 @@
-# OWASP Honeypot
-
-![Build Status](https://github.com/OWASP/Python-Honeypot/workflows/CI/badge.svg?branch=master)
-
-OWASP Honeypot is an open-source software in Python language which designed for creating honeypot and honeynet in an easy and secure way! This project is compatible with Python 3.x and tested on Mac OS X, and [Linux](https://github.com/zdresearch/OWASP-Honeypot/actions).
-
-We appreciate any contribution, ideas, feedback. feel free to contact us by creating an issue or send me email directly [ali.razmjoo@owasp.org](mailto:ali.razmjoo@owasp.org). Please visit [Wiki](https://github.com/zdresearch/OWASP-Honeypot/wiki) page for more information.
+# Honeypot
 
 ### Live API
 We've set up a live API on a few servers in Stockholm area, you can use API calls and information without any limitation, the service is running on a tiny VPS, please do not send a lot of requests.
@@ -22,13 +16,6 @@ ______
 * Running Example (I sent `ctrl + c` to close and remove honeypot service correctly!)
 
 ```
-
-      ______          __      _____ _____
-     / __ \ \        / /\    / ____|  __ \
-    | |  | \ \  /\  / /  \  | (___ | |__) |
-    | |  | |\ \/  \/ / /\ \  \___ \|  ___/
-    | |__| | \  /\  / ____ \ ____) | |
-     \____/   \/  \/_/    \_\_____/|_|
                       _    _                        _____      _
                      | |  | |                      |  __ \    | |
                      | |__| | ___  _ __   ___ _   _| |__) |__ | |_
